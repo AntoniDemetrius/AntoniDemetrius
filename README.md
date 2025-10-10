@@ -1,5 +1,3 @@
-## Olá, me chamo Antoni Demétrius!
-Atualmente cursando Sistemas de Informação e estou iniciando minha carreira em Cibersegurança.
 
 ```bash
 # Terminal:
